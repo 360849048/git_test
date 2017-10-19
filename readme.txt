@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is quick and simple.
 Test --no-ff to verify it's effect.
 XXX.
+Tag is a useful tool in git.
